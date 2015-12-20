@@ -1,6 +1,6 @@
 # dnsbf
 
-This script find's hostnames within an IP range.
+This script discovers hostnames within an IP range.
 
 The changes made t0ka7a's version:
   Removed threading module to increase performance.
