@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
-# dnsbf.py
+# Script: dnsbf.py
+# Version: 0.3
 # Written by t0ka7a
 # Edited by strayArch
 # License: new BSD Licence
